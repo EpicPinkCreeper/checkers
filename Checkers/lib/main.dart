@@ -31,10 +31,10 @@ bool hasPiece22 = true;
 bool hasPiece23 = true;
 bool hasPiece24 = true;
 
-bool hasPiece31 = false;
-bool hasPiece32 = false;
-bool hasPiece33 = false;
-bool hasPiece34 = false;
+bool hasPiece31 = true;
+bool hasPiece32 = true;
+bool hasPiece33 = true;
+bool hasPiece34 = true;
 
 bool hasPiece41 = false;
 bool hasPiece42 = false;
@@ -46,10 +46,10 @@ bool hasPiece52 = false;
 bool hasPiece53 = false;
 bool hasPiece54 = false;
 
-bool hasPiece61 = false;
-bool hasPiece62 = false;
-bool hasPiece63 = false;
-bool hasPiece64 = false;
+bool hasPiece61 = true;
+bool hasPiece62 = true;
+bool hasPiece63 = true;
+bool hasPiece64 = true;
 
 bool hasPiece71 = true;
 bool hasPiece72 = true;
@@ -87,10 +87,10 @@ bool isRed52 = false;
 bool isRed53 = false;
 bool isRed54 = false;
 
-bool isRed61 = false;
-bool isRed62 = false;
-bool isRed63 = false;
-bool isRed64 = false;
+bool isRed61 = true;
+bool isRed62 = true;
+bool isRed63 = true;
+bool isRed64 = true;
 
 bool isRed71 = true;
 bool isRed72 = true;
